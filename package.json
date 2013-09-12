@@ -11,7 +11,5 @@
   "peerDependencies": {
     "lodash": "*"
   },
-  "engines": {
-    "node": "0.10.0"
-  }
+  "main": "pathrev"
 }
