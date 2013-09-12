@@ -6,9 +6,7 @@
     "url": "git://github.com/gocardless-client/grunt-pathrev.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless-client/grunt-pathrev/issues"
-  },
-  "peerDependencies": {
+    "url": "http://github.com/gocardless-client/grunt-pathrev/issues",
     "lodash": "*"
   },
   "main": "pathrev"
