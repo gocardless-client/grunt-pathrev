@@ -1,0 +1,17 @@
+{
+  "name": "grunt-pathrev",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/grunt-pathrev.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/grunt-pathrev/issues"
+  },
+  "peerDependencies": {
+    "lodash": "*"
+  },
+  "engines": {
+    "node": "0.10.0"
+  }
+}
