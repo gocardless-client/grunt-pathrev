@@ -9,7 +9,7 @@
     "url": "http://github.com/gocardless-client/grunt-pathrev/issues",
     "lodash": "*"
   },
-  "main": "pathrev",
+  "main": "tasks/pathrev",
   "dependencies": {
     "lodash": "~1.3.1"
   },
